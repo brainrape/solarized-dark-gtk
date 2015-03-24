@@ -8,7 +8,7 @@
 style "default"
 {
   engine "hcengine" {
-    edge_thickness = 2
+    edge_thickness = 1
   }
 
   xthickness = 2
@@ -30,7 +30,7 @@ style "default"
   GtkTreeView::expander-size = 16
 
   GtkWidget::focus-line-pattern = "\4\2"
-  GtkWidget::focus-line-width = 2
+  GtkWidget::focus-line-width = 1
   GtkWidget::focus-padding = 0
   GtkWidget::interior_focus = 1
   GtkWidget::link-color = "#80ccff"
